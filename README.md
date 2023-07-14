@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android dev,Firebase,DSA**
 
-- 📫 How to reach me **roybasudeb614@gmail.com**
+- 📫 you can reach me at **roybasudeb614@gmail.com**
 
 - ⚡ Fun fact **I am a little bit serious and more funny person.**
 
