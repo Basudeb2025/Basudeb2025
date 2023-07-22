@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, and more computer fundamentals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Basudeb2025/Basudeb2025](https://github.com/Basudeb2025/Basudeb2025)
+- 👨‍💻 All of my projects are available at [https://github.com/Basudeb2025?tab=repositories]((https://github.com/Basudeb2025?tab=repositories))
 
 - 💬 Ask me about **Android dev,Firebase,DSA**
 
