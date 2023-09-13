@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Basudeb Roy</h1>
-<h3 align="center">I am a android app developer with kotlin and a coder..</h3>
+<h3 align="center">I am an android app developer with kotlin and a coder..</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Node.js, and more computer fundamentals**
